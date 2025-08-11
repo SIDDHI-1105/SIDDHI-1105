@@ -61,3 +61,6 @@ Passionate about **AI**, **ML**, and **Full-Stack Development**, with a drive to
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/siddhi2005/)
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B42C&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Siddhi+Tripathi+👋;Aspiring+AI+Engineer;Software+Engineering+Student;WE+Hub+Innovator;Building+Tech+With+Impact)](https://git.io/typing-svg)
+
