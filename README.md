@@ -115,4 +115,22 @@ Passionate about **AI**, **data-driven solutions**, and building technology that
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/siddhi2005/)
 
 ---
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"> <!-- furious coding -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"> <!-- overwhelmed coding -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"> <!-- coffee and code -->
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"> <!-- typing raccoon -->
+<img src="https://media.giphy.com/media/l0MYEWpv7Ue0RFVaE/giphy.gif" width="200"> <!-- coding from bed -->
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200"> <!-- robot typing -->
+
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"> <!-- cat typing -->
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"> <!-- cat on computer -->
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"> <!-- excited cat -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> <!-- space cat -->
+
+
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"> <!-- loading forever -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"> <!-- debugging -->
+<img src="https://media.giphy.com/media/kBZBlLVlfECvOQAVno/giphy.gif" width="200"> <!-- deleting code -->
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200"> <!-- frustrated coder -->
 
