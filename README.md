@@ -1,7 +1,8 @@
+# Hi, I'm Siddhi Tripathi 👋
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B42C&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Siddhi+Tripathi+👋;Aspiring+AI+Engineer;Software+Engineering+Student;WE+Hub+Innovator;Building+Tech+With+Impact)](https://git.io/typing-svg)
 
-🚀 **Aspiring AI Engineer & Software Engineer** | 💻 **Final-Year Computer Science Student** | 🌟 **WE Hub Innovator**  
-Passionate about **AI**, **ML**, and **Full-Stack Development**, with a drive to build impactful tech for real-world challenges.
 
 ---
 
@@ -62,4 +63,12 @@ Passionate about **AI**, **ML**, and **Full-Stack Development**, with a drive to
 
 ---
 ![Siddhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDDHI-1105&theme=react-dark&hide_border=true)
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
