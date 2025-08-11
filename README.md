@@ -30,6 +30,7 @@ Passionate about **AI**, **data-driven solutions**, and building technology that
 ## 💻 What I Work With 
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
+
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
