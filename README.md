@@ -4,9 +4,7 @@
 Passionate about **AI**, **data-driven solutions**, and building technology that makes a real-world impact.
 
 ### 🏆 GitHub Achievements
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/> 
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor"/> 
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" title="Mars 2020 Contributor"/> 
 
 ---
 
