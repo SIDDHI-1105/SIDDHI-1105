@@ -114,5 +114,6 @@ Passionate about **AI**, **data-driven solutions**, and building technology that
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/siddhi2005/)
 
 ---
-![Doge](https://img.shields.io/badge/Much%20Code-Wow-yellow?style=for-the-badge&logo=dogecoin)
+<img src="assets/funny.png" width="150">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
 
