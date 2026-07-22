@@ -13,10 +13,15 @@ Building scalable software, AI-powered applications, and production-ready backen
 </div>
 
 ---
-# 📅 GitHub Contribution Heat Map
+# 📅 GitHub Contribution 
+
+---
+> **Requires GitHub Action setup.**
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/SIDDHI-1105" alt="GitHub Contribution Heat Map"/>
+
+<img src="https://raw.githubusercontent.com/SIDDHI-1105/SIDDHI-1105/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
@@ -228,18 +233,6 @@ Real-time canteen ordering and menu management platform.
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SIDDHI-1105&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> **Requires GitHub Action setup.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SIDDHI-1105/SIDDHI-1105/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
