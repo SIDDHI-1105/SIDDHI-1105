@@ -13,7 +13,13 @@ Building scalable software, AI-powered applications, and production-ready backen
 </div>
 
 ---
+# 📅 GitHub Contribution Heat Map
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/SIDDHI-1105" alt="GitHub Contribution Heat Map"/>
+</p>
+
+---
 # 🏆 GitHub Achievements
 
 <p align="center">
@@ -35,11 +41,8 @@ Building scalable software, AI-powered applications, and production-ready backen
 - 🔭 Currently building **URL Shortener**, **Log Analyzer**, **EtudeSync**, and **Canteen Connect**
 - 🌱 Currently learning **System Design**, **Docker**, **Cloud Computing**, **Data Structures & Algorithms**, and **Scalable Backend Development**
 - 🤖 Passionate about **Full Stack Development**, **Backend Engineering**, and **Generative AI**
-- 💡 Interested in building **AI-powered SaaS**, **Developer Tools**, and **Scalable Applications**
 - 🤝 Looking to collaborate on **Open Source**, **GenAI**, and **Full Stack Projects**
-- 💬 Ask me about **Python**, **JavaScript**, **Node.js**, **REST APIs**, **Databases**, **DSA**, and **Generative AI**
-- ⚡ Fun fact: My code works perfectly... until someone watches me demo it 😹
-
+- 💬 Ask me about **Python**, **JavaScript**, **Node.js**, **REST APIs**, **Databases**, **DSA**.
 ---
 
 # 🚀 Engineering Focus
@@ -218,16 +221,6 @@ Real-time canteen ordering and menu management platform.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHI-1105&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHI-1105&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -297,62 +290,8 @@ Real-time canteen ordering and menu management platform.
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
 
 </div>
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHI-1105&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHI-1105&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SIDDHI-1105&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHI-1105&theme=tokyo-night&hide_border=true"/>
-</p>
-
-## 📅 Contribution Heat Map
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/SIDDHI-1105" alt="GitHub Contribution Heat Map"/>
-</p>
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHI-1105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHI-1105&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SIDDHI-1105&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHI-1105&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📅 GitHub Contribution Heat Map
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/SIDDHI-1105" alt="GitHub Contribution Heat Map"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SIDDHI-1105&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
 
 ---
 
