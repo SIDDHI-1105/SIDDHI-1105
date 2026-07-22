@@ -233,16 +233,6 @@ Real-time canteen ordering and menu management platform.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHI-1105&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 > **Requires GitHub Action setup.**
@@ -294,9 +284,3 @@ Real-time canteen ordering and menu management platform.
 
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SIDDHI-1105/SIDDHI-1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
