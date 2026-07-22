@@ -15,7 +15,6 @@ Building scalable software, AI-powered applications, and production-ready backen
 ---
 # 📅 GitHub Contribution 
 
----
 > **Requires GitHub Action setup.**
 
 <p align="center">
