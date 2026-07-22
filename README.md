@@ -319,3 +319,45 @@ Real-time canteen ordering and menu management platform.
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/SIDDHI-1105" alt="GitHub Contribution Heat Map"/>
 </p>
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDHI-1105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHI-1105&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SIDDHI-1105&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHI-1105&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📅 GitHub Contribution Heat Map
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/SIDDHI-1105" alt="GitHub Contribution Heat Map"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SIDDHI-1105&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SIDDHI-1105/SIDDHI-1105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
