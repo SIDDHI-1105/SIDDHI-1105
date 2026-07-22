@@ -1,54 +1,59 @@
-# 🚀 Hi, I'm Siddhi Tripathi 👋
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 
-### 💻 Full Stack Software Engineer | 🤖 Generative AI Engineer | ⚙️ Backend Developer
+# Hi 👋, I'm Siddhi Tripathi
 
-**Building scalable software, AI-powered applications, and production-ready backend systems.**
+### 🚀 Full Stack Software Engineer | 🤖 Generative AI Engineer | 💻 Backend Developer
 
-<img src="https://komarev.com/ghpvc/?username=SIDDHI-1105&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+Building scalable software, AI-powered applications, and production-ready backend systems.
+
+![](https://komarev.com/ghpvc/?username=SIDDHI-1105&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="90"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="85"/>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-* 🔭 Currently building **URL Shortener**, **Log Analyzer**, **EtudeSync**, and **Canteen Connect**
-* 🌱 Currently learning **System Design**, **Docker**, **Cloud Computing**, **Data Structures & Algorithms**, and **Scalable Backend Development**
-* 🤖 Passionate about **Full Stack Development**, **Backend Engineering**, and **Generative AI**
-* 🚀 Interested in building **AI-powered SaaS**, **Developer Tools**, and **Scalable Web Applications**
-* 🤝 Looking to collaborate on **Open Source**, **AI Projects**, and **Full Stack Applications**
-* 💬 Ask me about **Python**, **JavaScript**, **Node.js**, **REST APIs**, **Databases**, **DSA**, and **Generative AI**
-* ⚡ Fun Fact: I debug faster after coffee ☕... sometimes 😹
+- 🔭 Currently building **URL Shortener**, **Log Analyzer**, **EtudeSync**, and **Canteen Connect**
+- 🌱 Currently learning **System Design**, **Docker**, **Cloud Computing**, **Data Structures & Algorithms**, and **Scalable Backend Development**
+- 🤖 Passionate about **Full Stack Development**, **Backend Engineering**, and **Generative AI**
+- 💡 Interested in building **AI-powered SaaS**, **Developer Tools**, and **Scalable Applications**
+- 🤝 Looking to collaborate on **Open Source**, **GenAI**, and **Full Stack Projects**
+- 💬 Ask me about **Python**, **JavaScript**, **Node.js**, **REST APIs**, **Databases**, **DSA**, and **Generative AI**
+- ⚡ Fun fact: My code works perfectly... until someone watches me demo it 😹
 
 ---
 
 # 🚀 Engineering Focus
 
-* 💻 Full Stack Development
-* ⚙️ Backend Engineering
-* 🔗 REST API Development
-* 🏗️ System Design
-* 🗄️ Database Design & Optimization
-* 🤖 Generative AI Applications
-* ☁️ Cloud Computing
-* 🐳 Containerization
-* 📊 Performance Optimization
-* 🧩 Data Structures & Algorithms
+- 💻 Full Stack Development
+- ⚙️ Backend Engineering
+- 🔗 REST APIs
+- 🏗️ System Design
+- 🤖 Generative AI
+- 🗄️ Database Design
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 📊 Performance Optimization
+- 🧩 Data Structures & Algorithms
 
 ---
 
@@ -74,17 +79,17 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
 </p>
 
@@ -94,11 +99,11 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 
 </p>
 
@@ -108,43 +113,43 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</p>
-
----
-
-# 🤖 AI & Generative AI
-
-<p>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 
 </p>
 
 ---
 
-# 🛠️ Tools & Platforms
+# 🤖 AI & GenAI
 
 <p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠️ Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 
@@ -152,7 +157,7 @@
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
 </p>
 
@@ -160,86 +165,60 @@
 
 # 📚 Computer Science
 
-<p>
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B35?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Data%20Structures-FF6B35?style=for-the-badge"/>
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Algorithms-0A66C2?style=for-the-badge"/>
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-0078D4?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-0099CC?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-0099CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System%20Design-Learning-success?style=for-the-badge"/>
-
-</p>
+![System Design](https://img.shields.io/badge/System_Design-Learning-success?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔗 URL Shortener with Analytics
-
-Production-grade URL shortening platform with analytics, authentication, logging, testing, CI/CD, and scalable backend architecture.
+### 🔗 URL Shortener
+Production-grade URL shortening service with analytics, authentication, logging, testing and CI/CD.
 
 ### 📊 Log Analyzer CLI
-
-Python CLI application that parses logs using Regex, JSON configuration, and pytest to automate debugging and reporting.
+Python CLI for analyzing server logs using Regex, JSON configuration and pytest.
 
 ### 🎓 EtudeSync
-
-Full Stack study platform featuring JWT Authentication, Role-Based Access Control, quizzes, flashcards, and leaderboards.
+Full Stack learning platform with JWT authentication, RBAC, quizzes and leaderboards.
 
 ### 🍽️ Canteen Connect
-
-Real-time canteen menu management and food ordering platform.
+Real-time canteen ordering and menu management platform.
 
 ---
 
 # 🌱 Currently Learning
 
-* 🏗️ System Design
-* 🐳 Docker & Containerization
-* ☁️ Cloud Computing (AWS/GCP)
-* 📚 Data Structures & Algorithms
-* ⚙️ Scalable Backend Development
-* 🤖 Advanced Generative AI & LLM Applications
+- 🏗️ System Design
+- 🐳 Docker
+- ☁️ Cloud Computing
+- 📚 Data Structures & Algorithms
+- ⚙️ Scalable Backend Development
+- 🤖 Advanced Generative AI
 
 ---
 
 # 🎯 Current Goals
 
-* 🚀 Build **15+ Production-Grade Software Projects**
-* 💻 Master **Backend Engineering**
-* 🏗️ Learn **System Design** in depth
-* 🌐 Contribute to **Open Source**
-* ⚛️ Strengthen **Full Stack Development**
-* 🧩 Solve **400+ LeetCode Problems** and participate in **Weekly Contests**
-* 🏆 Become a **Software Engineer** at a leading product-based company
+- 🚀 Build **15+ Production-Grade Projects**
+- 💻 Master Backend Engineering
+- 🏗️ Master System Design
+- 🌐 Contribute to Open Source
+- ⚛️ Strengthen Full Stack Development
+- 🧩 Solve **400+ LeetCode Problems**
+- 🏆 Become a Software Engineer at a leading Product Company
 
 ---
 
-# 🏅 Certifications & Achievements
-
-🏆 Winner — Hack War 2.0
-
-🥈 Finalist — AI Bharat Hackathon
-
-🥈 Finalist — HackCerebrate
-
-🌍 Global Participant — Hackcelerate 2025
-
-🤖 Google GenAI Graduate
-
-☁️ Microsoft Azure AI Certified
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -261,7 +240,7 @@ Real-time canteen menu management and food ordering platform.
 
 ---
 
-# 📊 Contribution Heat Map
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -271,17 +250,9 @@ Real-time canteen menu management and food ordering platform.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SIDDHI-1105&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
+
+> **Requires GitHub Action setup.**
 
 <p align="center">
 
@@ -304,7 +275,7 @@ Real-time canteen menu management and food ordering platform.
 </a>
 
 <a href="https://leetcode.com/u/siddhi2005/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://medium.com/@siddhitripathi11.16">
@@ -321,11 +292,8 @@ Real-time canteen menu management and food ordering platform.
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
 
-> *"99 little bugs in the code,*
-> *99 bugs in the code.*
-> *Fix one bug, compile again...*
-> ***127 little bugs in the code.*** 😹
+> **"Code never lies. Comments sometimes do."**
 
-### ⭐ Thanks for visiting my profile! Happy Coding 🚀
+⭐ Thanks for visiting my profile! Happy Coding 🚀
 
 </div>
