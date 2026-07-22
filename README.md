@@ -16,10 +16,9 @@ Building scalable software, AI-powered applications, and production-ready backen
 
 # 👩‍💻 About Me
 
-- 🔭 Currently building **URL Shortener**, **Log Analyzer**, **EtudeSync**, and **Canteen Connect**
+- 🔭 Currently building **URL Shortener**, **Log Analyzer**.
 - 🌱 Currently learning **System Design**, **Docker**, **Cloud Computing**, **Data Structures & Algorithms**, and **Scalable Backend Development**
 - 🤖 Passionate about **Generative AI**, **Backend Engineering**, and **Full Stack Development**
-- 💡 Interested in building **AI-powered SaaS products**, **Developer Tools**, and **Scalable Web Applications**
 - 🤝 Looking to collaborate on **Open Source**, **Full Stack**, and **GenAI Projects**
 - 💬 Ask me about **Python**, **JavaScript**, **Node.js**, **REST APIs**, **Databases**, **DSA**, and **Generative AI**
 - ⚡ Fun Fact: I can spend hours debugging only to discover I forgot a semicolon 😹
