@@ -24,6 +24,14 @@ Building scalable software, AI-powered applications, and production-ready backen
 - ⚡ Fun Fact: I can spend hours debugging only to discover I forgot a semicolon 😹
 
 ---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="90" alt="Mars 2020 Contributor"/>
+</p>
 
 # 🚀 Engineering Focus
 
